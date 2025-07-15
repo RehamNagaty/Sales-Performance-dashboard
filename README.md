@@ -12,4 +12,4 @@ It provides interactive visuals for:
 
 🙋‍♀️ Author
 Reham Mohamed Nagaty
-LinkedIn Profile
+[LinkedIn Profile](https://www.linkedin.com/in/reham-mohamed-nagaty/)
