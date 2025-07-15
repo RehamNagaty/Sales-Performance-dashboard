@@ -10,3 +10,6 @@ It provides interactive visuals for:
 - Year-over-Year Trends  
 - Promotion Impact  
 
+🙋‍♀️ Author
+Reham Mohamed Nagaty
+LinkedIn Profile
